@@ -30,10 +30,10 @@
 
 ## 🚀 開發與執行環境
 
-本專案升級為 32-bit Windows 應用程式，捨棄老舊的 DOSBox，可直接於現代 Windows 系統執行。
+本專案升級為 32-bit Windows 應用程式，捨棄老舊的 DOSBox，可直接於現代 Windows 系統的終端機中執行。為了追求輕量化開發，本專案全程使用 **Visual Studio Code** 建置。
 
-* **開發工具**: Visual Studio (2019/2022) 含 C++ 桌面開發工作負載
-* **編譯器**: Microsoft Macro Assembler (ML.EXE)
+* **開發編輯器**: Visual Studio Code (VS Code)
+* **編譯工具鏈**: Microsoft Macro Assembler (ML.EXE) via VS Code Extensions
 * **外部依賴**: [Irvine32 Library (Kip Irvine 7th Edition)](http://www.asmirvine.com/)
 
 ### 🛠️ 如何在本機編譯執行
